@@ -1,5 +1,5 @@
 {
-  "name": "auoh-robot-factory",
+  "name": "auoh-fanuc-http-client",
   "version": "1.0.0",
   "description": "AUOT exercise 01 at SEAMK.fi",
   "main": "app.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Markesi/AUOH-robot-factory.git"
+    "url": "git+https://github.com/Markesi/AUOH-fanuc-http-client.git"
   },
   "author": "Michelangelo Marchesi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Markesi/AUOH-robot-factory/issues"
+    "url": "https://github.com/Markesi/AUOH-fanuc-http-client/issues"
   },
-  "homepage": "https://github.com/Markesi/AUOH-robot-factory#readme",
+  "homepage": "https://github.com/Markesi/AUOH-fanuc-http-client#readme",
   "devDependencies": {
     "nodemon": "^2.0.2"
   },
